@@ -43,6 +43,7 @@
 		"custom/right_div#5"
 	],
 	"modules-right": [
+		"custom/dial",
 		"mpris",
 		"custom/left_div#6",
 		"group/pulseaudio",

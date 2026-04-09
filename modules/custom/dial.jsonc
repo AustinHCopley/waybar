@@ -1,0 +1,9 @@
+{
+	"custom/dial": {
+		"exec": "~/.config/waybar/scripts/dial_status.sh",
+		"return-type": "json",
+		"interval": 1,
+		"format": "{}",
+		"tooltip": true
+	}
+}
