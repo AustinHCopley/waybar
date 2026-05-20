@@ -16,10 +16,10 @@
 }
 
 #waybar {
-	background-color: @outline;
+	background-color: @main-bg;
 }
 #waybar > box {
-	margin: 4px;
+	margin: 0;
 	background-color: @main-bg;
 }
 
